@@ -1,0 +1,21 @@
+h1{padding-left:40%;}
+.d1,.d2,.d3{text-allign:centre;
+background-color:yellow;
+display:block;
+border:2px solid red;
+float:left;
+padding:0;
+margin-left:81%;}
+.text{display:block;
+padding:1%;}
+.block{display:block;
+margin:3%;
+padding:0;
+border:2px solid red;
+background-color:lightblue; 
+float: left;
+width:25%;}
+@media only screen and (max-width:991px){
+.block{width:47%;}}
+@media only screen and(max-width:767px}{
+.block{width:95%;}}
